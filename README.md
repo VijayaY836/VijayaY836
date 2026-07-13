@@ -21,6 +21,8 @@ I build things that live at the intersection of **AI, full-stack engineering, an
 
 I'm in my third year of CSE at **BVRIT Hyderabad** (GPA 9.43), and most of what I know, I learned by shipping something and watching it break.
 
+[Portfolio](https://portfolio-zeta-gilt-26xhf2sai6.vercel.app/)
+
 ---
 
 ### 🛠️ Things I've built
