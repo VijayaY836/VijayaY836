@@ -21,7 +21,6 @@ I build things that live at the intersection of **AI, full-stack engineering, an
 
 I'm in my third year of CSE at **BVRIT Hyderabad** (GPA 9.43), and most of what I know, I learned by shipping something and watching it break.
 
-[Portfolio](https://portfolio-zeta-gilt-26xhf2sai6.vercel.app/)
 
 ---
 
@@ -88,6 +87,8 @@ And I *love* to talk. I'm always up for a good discussion or a friendly debate, 
 <div align="center">
 
 **If any of that resonates — the tech, the books, or the questions — my inbox is open.** ✦
+
+Check out my portfolio : [Portfolio](https://portfolio-zeta-gilt-26xhf2sai6.vercel.app/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VijayaY836&show_icons=true&hide_border=true&title_color=6C5CE7&icon_color=6C5CE7&theme=default)
 
